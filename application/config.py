@@ -15,7 +15,7 @@ class DevelopmentConfig(Config):
     """Development configuration"""
 
 
-class TestingConfiguration(Config):
+class TestingConfig(Config):
     """Testing configuration"""
 
     TESTING = True
